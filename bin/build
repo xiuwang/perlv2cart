@@ -42,3 +42,4 @@ then
 fi
 
 
+date> $OPENSHIFT_DATA_DIR/date
