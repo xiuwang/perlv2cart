@@ -42,4 +42,4 @@ then
 fi
 
 
-date> $OPENSHIFT_DATA_DIR/date
+date> $OPENSHIFT_DATA_DIR/$key
