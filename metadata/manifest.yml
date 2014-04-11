@@ -69,7 +69,7 @@ Subscribes:
     Type: "STRING:urlpath"
     Required : false
 Scaling:
-  Min: 1
+  Min: 2
   Max: -1
 Group-Overrides:
   - components:
