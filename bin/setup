@@ -1,6 +1,6 @@
 #!/bin/bash -eu
 
-data >> ${OPENSHIFT_HOMEDIR}data.log
+date >> ${OPENSHIFT_HOMEDIR}data.log
 case "$1" in
   -v|--version)
     version="$2"
